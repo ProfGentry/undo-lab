@@ -1,0 +1,4 @@
+app_name=Student Support Tool
+version=1.0
+debug_mode=false
+support_email=support@example.com
